@@ -1,0 +1,332 @@
+[
+    {
+        "name": "composer/installers",
+        "version": "v1.0.22",
+        "version_normalized": "1.0.22.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/composer/installers.git",
+            "reference": "bd9b14f094c89c8b5804a4e41edeb7853bb85046"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/composer/installers/zipball/bd9b14f094c89c8b5804a4e41edeb7853bb85046",
+            "reference": "bd9b14f094c89c8b5804a4e41edeb7853bb85046",
+            "shasum": ""
+        },
+        "require": {
+            "composer-plugin-api": "1.0.0"
+        },
+        "replace": {
+            "roundcube/plugin-installer": "*",
+            "shama/baton": "*"
+        },
+        "require-dev": {
+            "composer/composer": "1.0.*@dev",
+            "phpunit/phpunit": "4.1.*"
+        },
+        "time": "2015-10-29 23:28:48",
+        "type": "composer-plugin",
+        "extra": {
+            "class": "Composer\\Installers\\Plugin",
+            "branch-alias": {
+                "dev-master": "1.0-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "Composer\\Installers\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Kyle Robinson Young",
+                "email": "kyle@dontkry.com",
+                "homepage": "https://github.com/shama"
+            }
+        ],
+        "description": "A multi-framework Composer library installer",
+        "homepage": "http://composer.github.com/installers/",
+        "keywords": [
+            "Craft",
+            "Dolibarr",
+            "Hurad",
+            "MODX Evo",
+            "OXID",
+            "SMF",
+            "Thelia",
+            "WolfCMS",
+            "agl",
+            "aimeos",
+            "annotatecms",
+            "bitrix",
+            "cakephp",
+            "chef",
+            "codeigniter",
+            "concrete5",
+            "croogo",
+            "dokuwiki",
+            "drupal",
+            "elgg",
+            "fuelphp",
+            "grav",
+            "installer",
+            "joomla",
+            "kohana",
+            "laravel",
+            "lithium",
+            "magento",
+            "mako",
+            "mediawiki",
+            "modulework",
+            "moodle",
+            "phpbb",
+            "piwik",
+            "ppi",
+            "puppet",
+            "roundcube",
+            "shopware",
+            "silverstripe",
+            "symfony",
+            "typo3",
+            "wordpress",
+            "zend",
+            "zikula"
+        ]
+    },
+    {
+        "name": "wpackagist-plugin/cleantalk-spam-protect",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/cleantalk-spam-protect/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/cleantalk-spam-protect.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2016-01-15 20:04:25",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/cleantalk-spam-protect/"
+    },
+    {
+        "name": "wpackagist-plugin/baw-login-logout-menu",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/baw-login-logout-menu/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/baw-login-logout-menu.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-07-31 00:03:20",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/baw-login-logout-menu/"
+    },
+    {
+        "name": "wpackagist-plugin/postman-smtp",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/postman-smtp/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/postman-smtp.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-12-02 03:33:01",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/postman-smtp/"
+    },
+    {
+        "name": "wpackagist-plugin/jquery-collapse-o-matic",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/jquery-collapse-o-matic/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/jquery-collapse-o-matic.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-12-29 09:16:48",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/jquery-collapse-o-matic/"
+    },
+    {
+        "name": "wpackagist-plugin/nav-menu-roles",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/nav-menu-roles/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/nav-menu-roles.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2016-01-12 13:48:07",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/nav-menu-roles/"
+    },
+    {
+        "name": "wpackagist-plugin/qtranslate-x",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/qtranslate-x/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/qtranslate-x.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-11-14 03:58:50",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/qtranslate-x/"
+    },
+    {
+        "name": "wpackagist-plugin/testimonials",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/testimonials/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/testimonials.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-07-29 18:47:58",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/testimonials/"
+    },
+    {
+        "name": "wpackagist-plugin/user-role-editor",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/user-role-editor/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/user-role-editor.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2016-01-15 02:12:58",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/user-role-editor/"
+    },
+    {
+        "name": "wpackagist-plugin/wp-emoji-one",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/wp-emoji-one/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/wp-emoji-one.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-08-24 21:08:23",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/wp-emoji-one/"
+    },
+    {
+        "name": "wpackagist-plugin/wp-mobile-detect",
+        "version": "dev-trunk",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "svn",
+            "url": "http://plugins.svn.wordpress.org/wp-mobile-detect/",
+            "reference": "trunk"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://downloads.wordpress.org/plugin/wp-mobile-detect.zip",
+            "reference": null,
+            "shasum": null
+        },
+        "require": {
+            "composer/installers": "~1.0"
+        },
+        "time": "2015-05-11 21:21:14",
+        "type": "wordpress-plugin",
+        "installation-source": "source",
+        "homepage": "https://wordpress.org/plugins/wp-mobile-detect/"
+    }
+]

@@ -1,0 +1,48 @@
+#wfHeading, .wordfence-lock-icon, .wordfenceLive h2, #wfTabs a, #wfsltaw-about-wrapper {
+  display:none;
+}
+#wfLiveStatus {
+  font-size: 12px;
+}
+.wfTabsContainer {
+  max-height:400px!important;
+  overflow-y:auto!important;
+}
+#wordfence-views {
+  width:100%;
+}
+#wfsltaw-close {
+    cursor: pointer;
+    float: right;
+    position: relative;
+    z-index: 10002;
+}
+#wfsltaw-about,#wfsltaw-options, #wfsltaw-blockedips {
+  float:right;
+  margin-left:5px;
+}
+#wfsltaw-overlay {
+	background-color: black;
+	border-radius: 3px;
+	cursor: pointer;
+	height: 100%;
+	left: 0;
+	opacity: 0.75;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10000;
+}
+#wfsltaw-about-box {
+	background-color: #fff;
+	border-radius: 5px;
+	font-size: medium;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 20px;
+	position:fixed;
+	top: 133px;
+	width: auto;
+	z-index: 10001;
+}

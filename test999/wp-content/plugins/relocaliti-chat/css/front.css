@@ -1,0 +1,39 @@
+.relochat {
+	
+}
+
+.relochat-title {
+	
+}
+/* our conversation ul */
+.relochat-conversation {
+	position: relative;
+	width: 100%;
+}
+
+.relochat-conversation li {
+	margin: 5px 0;
+	padding: 10px;
+	width: 45%;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.relochat-you {
+	color: #fff;
+	background: #999;
+}
+
+.relochat-notyou {
+	margin-left: 55% !important;
+	color: #fff;
+	background: #39F;
+
+}
+
+.relochat-time {
+	font-size:x-small;
+	margin-left: 10%;
+}
+
