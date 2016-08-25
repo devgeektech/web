@@ -1,0 +1,3659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PdC-Requestmgt v0.9.9.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-17 11:51+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ pdcrequest
+#: includes/classes/Setlr_Request_Profile.php:21
+#: includes/classes/request-form.php:42 includes/classes/request-form.php:76
+msgid "Choose A Service"
+msgstr "Choisissez un service"
+
+# @ pdcrequest
+#: includes/classes/Setlr_Request_Profile.php:34
+#: includes/classes/request-form.php:61 includes/classes/request-form.php:90
+msgid "Get Quote"
+msgstr "Obtenir la cotation"
+
+# @ pdcrequest
+#: includes/classes/Setlr_Request_Profile.php:77
+#, php-format
+msgid "Our best quote for your project is: %s"
+msgstr "Notre meilleur devis pour votre projet est:%s"
+
+# @ pdcrequest
+#: includes/classes/admin-braintree.php:30
+msgid "Project Id"
+msgstr "Identifiant du projet :"
+
+# @ pdcrequest
+#: includes/classes/admin-braintree.php:31
+msgid "Settlement Status"
+msgstr "Statut du Règlement"
+
+# @ pdcrequest
+#: includes/classes/admin-braintree.php:32 includes/classes/request-cpt.php:220
+msgid "Amount"
+msgstr "Montant"
+
+# @ pdcrequest
+#: includes/classes/admin-braintree.php:33
+msgid "Date"
+msgstr "Date"
+
+# @ pdcrequest
+#: includes/classes/admin-braintree.php:34 pdc-requestmgt.php:257
+msgid "Customer"
+msgstr "Client"
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:15
+msgctxt "post type general name"
+msgid "Applications"
+msgstr "Applications"
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:16
+msgctxt "post type singular name"
+msgid "Application"
+msgstr "Application"
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:17
+msgctxt "admin menu"
+msgid "Applications"
+msgstr "Applications"
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:18
+msgctxt "add new on admin bar"
+msgid "Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:19
+msgctxt "application"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:20
+msgid "Add New Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:21
+msgid "New Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:22
+msgid "Edit Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:23
+msgid "View Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:24
+msgid "All Applications"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:25
+msgid "Search Applications"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:26
+msgid "Parent Applications:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:27
+msgid "No applications found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-cpt.php:28
+msgid "No Applications found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:27
+msgid "You have already applied!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:47
+#: includes/classes/setlr-translation.php:245 includes/front-functions.php:711
+#: includes/functions.php:711 templates/dashboard-translator.php:9
+msgid "Title"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:49
+#: includes/classes/request-form.php:536 includes/classes/request-form.php:570
+#: includes/classes/request-form.php:608 includes/classes/request-form.php:643
+#: includes/classes/setlr-translation.php:246 includes/front-functions.php:713
+#: includes/functions.php:713 templates/dashboard-translator.php:12
+msgid "Content"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:51
+msgid "Post Application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:58
+msgid "You do not have sufficient rights to make an application"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:132
+msgid "Your application is published"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/application-form.php:134
+msgid "Your application could not be published"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:10 includes/classes/lang.php:75
+msgid "Native Language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:20
+msgid "Please select your native (or preferred) language."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:24 includes/classes/extra-users.php:281
+#: pdc-requestmgt.php:510 pdc-requestmgt.php:634 pdc-requestmgt.php:915
+#: pdc-requestmgt.php:1317
+msgid "Languages"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:35
+msgid ""
+"Please select all languages that you speak. These will be shown on requests "
+"or help applications that you make."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:41 pdc-requestmgt.php:509
+#: pdc-requestmgt.php:909
+msgid "Services"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:57
+msgid "Please select services that you can offer."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:62
+msgid "Specialisations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:84
+msgid "Please select all specialisations that apply to you."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:89
+msgid "Experience"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:105
+msgid "Please select the most suitable experience level."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:109
+msgid "Years of Experience"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:282
+msgid "Locale"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:354 includes/classes/extra-users.php:360
+#, php-format
+msgid "photo of %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/extra-users.php:389
+msgid "to"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:65
+msgid "Translate To"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:70
+msgid "Translate From"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:80
+msgid "That I would like answered in"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:85
+msgid "I have a local question about"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:90
+msgid "Document Language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:234 includes/classes/request-form.php:274
+#: includes/functions/functions.php:471
+msgid "Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:235 includes/classes/request-cpt.php:216
+msgid "From"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:236 includes/classes/request-cpt.php:217
+msgid "To"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:294
+msgid "Afrikaan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:295
+msgid "Afrikaan - South Africa"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:297
+msgid "Albanian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:298
+msgid "Albanian - Albania"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:300
+msgid "Arabic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:301
+msgid "Arabic - Algeria"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:302
+msgid "Arabic - Bahrein"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:303
+msgid "Arabic - Egypt"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:304
+msgid "Arabic - Iraq"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:305
+msgid "Arabic - Jordan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:306
+msgid "Arabic - Kuwait"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:307
+msgid "Arabic - Lebanon"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:308
+msgid "Arabic - Lybia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:309
+msgid "Arabic - Morocco"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:310
+msgid "Arabic - Oman"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:311
+msgid "Arabic - Qatar"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:312
+msgid "Arabic - Saudi Arabia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:313
+msgid "Arabic - Syria"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:314
+msgid "Arabic - Tunisia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:315
+msgid "Arabic - United Arab Emirates"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:316
+msgid "Arabic - Yemen"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:318
+msgid "Armenian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:319
+msgid "Armenian - Armenia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:321
+msgid "Azeri"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:322
+msgid "Azeri - Azerbaijan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:324
+msgid "Basque"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:325
+msgid "Basque - Basque"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:327
+msgid "Belarussian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:328
+msgid "Belarusian - Belarus"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:330
+msgid "Bulgarian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:331
+msgid "Bulgarian - Bulgaria"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:333
+msgid "Catalan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:334
+msgid "Catalan - Catalan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:336
+msgid "Chinese"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:337
+msgid "Chinese - China"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:338
+msgid "Chinese - Hong Kong"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:339
+msgid "Chinese - Macau SAR"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:340
+msgid "Chinese - Singapore"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:341
+msgid "Chinese - Taiwan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:342
+msgid "Chinese (Simplified)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:343
+msgid "Chinese (Traditional)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:345
+msgid "Croatian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:346
+msgid "Croatian - Crotia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:348
+msgid "Danish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:349
+msgid "Danish - Denmark"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:351
+msgid "Dhivehi"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:352
+msgid "Dhivehi - Maldives"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:354
+msgid "Dutch"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:355
+msgid "Dutch - Belgium"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:356
+msgid "Dutch - The Nederlands"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:358
+msgid "English"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:359
+msgid "English - Australia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:360
+msgid "English - Belize"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:361
+msgid "English - Canada"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:362
+msgid "English - Carabbean"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:363
+msgid "English - Ireland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:364
+msgid "English - Jamaica"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:365
+msgid "English - New Zealand"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:366
+msgid "English - Philippines"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:367
+msgid "English - South Africa"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:368
+msgid "English - Trinidad and Tobago"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:369
+msgid "English - United Kingdom"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:370
+msgid "English - United States"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:371
+msgid "English - Zimbabwe"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:373
+msgid "Estonian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:374
+msgid "Estonian - Estonia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:376
+msgid "Faroese"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:377
+msgid "Faroese - Faroe Islands"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:379
+msgid "Farsi"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:380
+msgid "Farsi - Iran"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:382
+msgid "Finnish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:383
+msgid "Finnish - Finland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:385
+msgid "French"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:386
+msgid "French - Belgium"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:387
+msgid "French - Canada"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:388
+msgid "French - France"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:389
+msgid "French - Luxembourg"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:390
+msgid "French - Monaco"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:391
+msgid "French - Switzerland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:393
+msgid "Galician"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:394
+msgid "Galician - Galician"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:396
+msgid "Georgian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:397
+msgid "Georgian - Georgia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:399
+msgid "German"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:400
+msgid "German - Austria"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:401
+msgid "German - Germany"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:402
+msgid "German - Lichtenstein"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:403
+msgid "German - Luxembourg"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:404
+msgid "German - Switzerland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:406
+msgid "Greek"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:407
+msgid "Greek - Greece"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:409
+msgid "Gurajati"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:410
+msgid "Gurajati - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:412
+msgid "Hebrew"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:413
+msgid "Hebrew - Israel"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:415
+msgid "Hindi"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:416
+msgid "Hindi - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:418
+msgid "Hungarian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:419
+msgid "Hungarian - Hungary"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:421
+msgid "Icelandic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:422
+msgid "Icelandic - Iceland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:424
+msgid "Indonesian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:425
+msgid "Indonesian - Indonesia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:427
+msgid "Italian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:428
+msgid "Italian - Italy"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:429
+msgid "Italian - Switzerland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:431
+msgid "Japanese"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:432
+msgid "Japanese - Japan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:434
+msgid "Kannada"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:435
+msgid "Kannada - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:437
+msgid "Kazakh"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:438
+msgid "Kazakh - Kazakhstan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:440
+msgid "Konkani"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:441
+msgid "Konkani - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:443
+msgid "Korean"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:444
+msgid "Korean - Korea"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:446
+msgid "Kyrgyz"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:447
+msgid "Kyrgyz - Kazakhstan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:449
+msgid "Latvian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:450
+msgid "Latvian - Latvia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:452
+msgid "Lithunian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:453
+msgid "Lithunian - Lithunia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:455 includes/classes/lang.php:456
+msgid "Macedonian (FYROM)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:458
+msgid "Malay"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:459
+msgid "Malay - Brunei"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:460
+msgid "Malay - Malaysia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:462
+msgid "Marathi"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:463
+msgid "Marathi - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:465
+msgid "Mongolian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:466
+msgid "Mongolian - Mongolia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:468
+msgid "Norwegian (Bokmal)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:469
+msgid "Norwegian (Bokmal) - Norway"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:471
+msgid "Norwegian (Nynorsk)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:472
+msgid "Norwegian (Nynorsk) - Norway"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:474
+msgid "Polish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:475
+msgid "Polish - Poland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:477
+msgid "Portuguese"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:478
+msgid "Portuguese - Brazil"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:479
+msgid "Portuguese - Portugal"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:481
+msgid "Punjabi"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:482
+msgid "Punjabi - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:484
+msgid "Romanian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:485
+msgid "Romanian - Romania"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:487
+msgid "Russian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:488
+msgid "Russian - Russia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:490
+msgid "Sanskrit"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:491
+msgid "Sanskrit - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:493
+msgid "Serbian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:494
+msgid "Serbian (Cyrillic) - Serbia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:495
+msgid "Serbian (Latin) - Serbia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:497
+msgid "Slovak"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:498
+msgid "Slovak - Slovakia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:500
+msgid "Slovenian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:501
+msgid "Slovenian - Slovenia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:503
+msgid "Spanish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:504
+msgid "Spanish - Argentina"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:505
+msgid "Spanish - Bolivia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:506
+msgid "Spanish - Chile"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:507
+msgid "Spanish - Columbia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:508
+msgid "Spanish - Costa Rica"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:509
+msgid "Spanish - Dominican Republic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:510
+msgid "Spanish - Ecuador"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:511
+msgid "Spanish - El Salvador"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:512
+msgid "Spanish - Guatemala"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:513
+msgid "Spanish - Honduras"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:514
+msgid "Spanish - Mexico"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:515
+msgid "Spanish - Nicaragua"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:516
+msgid "Spanish - Panama"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:517
+msgid "Spanish - Paraguay"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:518
+msgid "Spanish - Peru"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:519
+msgid "Spanish - Puerto Rico"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:520
+msgid "Spanish - Spain"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:521
+msgid "Spanish - Uruguay"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:522
+msgid "Spanish - Venezuela"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:524
+msgid "Swahili"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:525
+msgid "Swahili - Kenya"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:527
+msgid "Swedish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:528
+msgid "Swedish - Finland"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:529
+msgid "Swedish - Sweden"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:531
+msgid "Syrian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:532
+msgid "Syrian - Syria"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:534
+msgid "Tamil"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:535
+msgid "Tamil - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:537
+msgid "Tatar"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:538
+msgid "Tatar - Russia"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:540
+msgid "Telugu"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:541
+msgid "Telugu - India"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:543
+msgid "Thai"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:544
+msgid "Thai - Thailand"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:546
+msgid "Turkish"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:547
+msgid "Turkish - Turkey"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:549
+msgid "Ukrainian"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:550
+msgid "Ukrainian - Ukraine"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:552
+msgid "Urdu"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:553
+msgid "Urdu - Pakistan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:555
+msgid "Uzbek"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:556
+msgid "Uzbek (Cyrillic) - Uzbekistan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:557
+msgid "Uzbek (Latin) - Uzbekistan"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:559
+msgid "Vietnamese"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:560
+msgid "Vietnamese - Vietnam"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:622 includes/classes/lang.php:670
+#: includes/classes/lang.php:697 includes/classes/lang.php:721
+msgid "Please choose a locale"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/lang.php:630 includes/classes/lang.php:679
+#: includes/classes/lang.php:706 includes/classes/lang.php:730
+msgid "not important"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/paypal-payment.php:51
+msgid "Paypal Account to receive payments"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/paypal-payment.php:52
+msgid "Your PayPal ID"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/paypal-payment.php:54
+msgid "Or fill in your email for PayPal"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/paypal-payment.php:55
+msgid "The email you registered to PayPal"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:15
+msgctxt "post type general name"
+msgid "Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:16
+msgctxt "post type singular name"
+msgid "Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:17
+msgctxt "admin menu"
+msgid "Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:18
+msgctxt "add new on admin bar"
+msgid "Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:19
+msgctxt "request"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:20
+#: includes/classes/request-cpt.php:32
+msgid "Add New Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:21
+msgid "New Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:22
+#: includes/classes/request-cpt.php:34
+msgid "Edit Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:23
+#: includes/classes/request-cpt.php:31
+msgid "View Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:24
+#: includes/classes/request-cpt.php:30
+msgid "All Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:25
+msgid "Search Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:26
+msgid "Parent Requests:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:27
+msgid "No requests found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt - Copy.php:28
+msgid "No requests found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:26
+msgctxt "Post Type General Name"
+msgid "Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:27
+msgctxt "Post Type Singular Name"
+msgid "Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:28
+#: includes/classes/setlr-translation.php:181
+#: includes/classes/translation.php:183
+msgid "Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:29
+msgid "Parent Request:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:33
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:35 includes/classes/request-form.php:57
+msgid "Update Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:36
+msgid "Search request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:37
+msgid "Not found"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:38
+msgid "Not found in Trash"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:41
+msgid "request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:42
+msgid "Requests for help by settlers"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:66
+msgctxt "Taxonomy General Name"
+msgid "Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:67
+msgctxt "Taxonomy Singular Name"
+msgid "Request Type"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:68
+msgid "Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:69
+msgid "All Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:70
+msgid "Parent Item"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:71
+msgid "Parent Item:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:72
+msgid "New Request Type"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:73
+msgid "Add New Request Type"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:74
+msgid "Edit Request Type"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:75
+msgid "Update Request Type"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:76
+msgid "Separate Request Types with commas"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:77
+msgid "Search Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:78
+msgid "Add or remove Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:79
+msgid "Choose from the most used Request Types"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:80 includes/classes/request-cpt.php:115
+msgid "Not Found"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:101
+msgctxt "Taxonomy General Name"
+msgid "Gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:102
+msgctxt "Taxonomy Singular Name"
+msgid "Gift"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:103
+msgid "Gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:104
+msgid "All Gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:105
+msgid "Parent Gift"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:106
+msgid "Parent Gift:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:107
+msgid "New Gift Name"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:108
+msgid "Add New Gift"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:109
+msgid "Edit Gift"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:110
+msgid "Update Gift"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:111
+msgid "Separate gifts with commas"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:112
+msgid "Search gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:113
+msgid "Add or remove gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:114
+msgid "Choose from the most used gifts"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:134 includes/classes/request-cpt.php:150
+#: includes/classes/request-cpt.php:190
+msgid "Value"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:136 includes/classes/request-cpt.php:153
+msgid "value of gift in base currency"
+msgstr ""
+
+# @ default
+#: includes/classes/request-cpt.php:186
+msgid "Name"
+msgstr ""
+
+# @ default
+#: includes/classes/request-cpt.php:189
+msgid "Slug"
+msgstr ""
+
+# @ default
+#: includes/classes/request-cpt.php:191
+msgid "Count"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:218
+#: includes/classes/setlr-translation.php:183
+#: includes/classes/translation.php:185 pdc-requestmgt.php:513
+#: pdc-requestmgt.php:635 pdc-requestmgt.php:920 pdc-requestmgt.php:1320
+msgid "Status"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:219 pdc-requestmgt.php:636
+#: pdc-requestmgt.php:921
+msgid "Payment Status"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:221 pdc-requestmgt.php:1319
+msgid "Word Count"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:275
+msgid "Can't find original post! Sorry"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:311
+#, php-format
+msgid "Request %s has been cancelled."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-cpt.php:345
+#, php-format
+msgid "Request %s has been reopened."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:40
+#, php-format
+msgid "Paid: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:71
+msgid "You do not have sufficient rights to make a request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:178
+msgid "Your request could not be published"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:241
+#, php-format
+msgid "Your project %s has been updated"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:243
+#, php-format
+msgid "Your project %s has been published."
+msgstr ""
+
+# @ default
+#: includes/classes/request-form.php:250
+#, php-format
+msgid "Your project %s is almost ready. You need to proceed to payment"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:275
+msgid "Local Question"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:304
+msgid "Interests & Specialisations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:306 includes/classes/request-form.php:331
+#: includes/classes/request-form.php:356
+msgid "Not Important"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:329
+msgid "Age Group"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:354
+msgid "Gender"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:447
+#, php-format
+msgid "Date Posted: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:448
+#, php-format
+msgid "Date Completed %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:454
+#, php-format
+msgid "Service: %s"
+msgstr ""
+
+# @ default
+#: includes/classes/request-form.php:457
+#, php-format
+msgid "From: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:457
+#, php-format
+msgid "To: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:465 includes/classes/request-form.php:466
+#: includes/classes/request-form.php:467
+#, php-format
+msgid "Language: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:474 includes/classes/request-form.php:527
+#: includes/classes/request-form.php:599
+msgid "Targeting Information"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:477
+#, php-format
+msgid "Interests & Specialisations: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:480
+#, php-format
+msgid "Age Group: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:483
+#, php-format
+msgid "Gender: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:489
+msgid "Project's Content"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:494
+msgid "Project's Notes"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:498
+msgid "Return to My Dashboard"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:519 includes/classes/request-form.php:591
+msgid "Select the languages"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:530 includes/classes/request-form.php:564
+#: includes/classes/request-form.php:602 includes/classes/request-form.php:637
+msgid "Give Your Project A Name"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:531 includes/classes/request-form.php:565
+#: includes/classes/request-form.php:603 includes/classes/request-form.php:638
+msgid "Project Name"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:535 includes/classes/request-form.php:569
+#: includes/classes/request-form.php:607 includes/classes/request-form.php:642
+msgid "Fill in your text"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:545 includes/classes/request-form.php:573
+#: includes/classes/request-form.php:617 includes/classes/request-form.php:646
+msgid "Helpful Notes & Context"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:546 includes/classes/request-form.php:574
+#: includes/classes/request-form.php:618 includes/classes/request-form.php:647
+msgid ""
+"Add any helpful notes, like links to a webpage, links to screenshots or "
+"other online documents that would be useful to the helper for understanding "
+"and context"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:557 includes/classes/request-form.php:629
+msgid "Is it specific to a country?"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/request-form.php:631
+msgid "no"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:36
+msgid "Information"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:44
+msgid "Reasons"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:52
+msgid "Select Translators"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:137
+msgid "Select your project"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:147
+msgid "You have no projects to review"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:164
+msgid "Check the Reasons for Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/revision-request-metabox.php:174
+msgid "Oups! We missed the reasons list"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-dashboard.php:22
+#: includes/classes/setlr-dashboard.php:26
+#: includes/classes/setlr-dashboard.php:30
+#: includes/classes/setlr-profile.php:53 includes/front-functions.php:61
+#: includes/functions.php:61
+msgid "Edit Your Profile"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-payment.php:59
+#, php-format
+msgid "Pay %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-payment.php:193
+msgid ""
+"Your payment has been approved, thank you. We have published your project."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-payment.php:199
+msgid ""
+"There was a problem processing your credit card; please double check your "
+"payment information and try again"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-payment.php:203
+msgid "There is a problem with your credit card. Please enquire with your bank"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-payment.php:207
+msgid ""
+"Our credit card processor network is unavailable. Please try again in a few "
+"minutes."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:33
+#, php-format
+msgid "Here is our best quote for your %s project"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:37
+msgid "Total: "
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:41
+msgid "Paid before: "
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:42
+msgid "Quote due: "
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:110
+msgid "Service type is not set"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-pricing.php:157
+msgid "Pay Now"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:46 includes/front-functions.php:54
+#: includes/functions.php:54
+msgid "API Key for WordPress Integration"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:47 includes/front-functions.php:55
+#: includes/functions.php:55
+#, php-format
+msgid "API Key for %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:49 includes/front-functions.php:57
+#: includes/functions.php:57
+msgid "Copy the key above in your plugin"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:58 includes/front-functions.php:66
+#: includes/functions.php:66
+msgid "Identity"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:59 includes/front-functions.php:67
+#: includes/functions.php:67
+msgid "Firstname"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:61 includes/front-functions.php:69
+#: includes/functions.php:69
+msgid "Lastname"
+msgstr ""
+
+# @ usermgt
+#: includes/classes/setlr-profile.php:63 includes/front-functions.php:71
+#: includes/functions.php:71
+msgid "Password"
+msgstr ""
+
+# @ usermgt
+#: includes/classes/setlr-profile.php:64 includes/front-functions.php:72
+#: includes/functions.php:72
+msgid "Password Confirm"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:65 includes/front-functions.php:73
+#: includes/functions.php:73
+msgid "Email"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:67 includes/front-functions.php:75
+#: includes/functions.php:75
+msgid "Phone"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:69
+msgid "Nickname"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:75 includes/front-functions.php:81
+#: includes/functions.php:81
+msgid "Logo"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:79 includes/front-functions.php:85
+#: includes/functions.php:85
+msgid "Billing Address"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:80 includes/front-functions.php:86
+#: includes/functions.php:86
+msgid "Company"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:83 includes/front-functions.php:89
+#: includes/functions.php:89
+msgid "Profile Picture"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:87 includes/front-functions.php:93
+#: includes/functions.php:93
+msgid "Living Address"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:90 includes/front-functions.php:96
+#: includes/functions.php:96
+msgid "Address"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:92 includes/front-functions.php:98
+#: includes/functions.php:98
+msgid "Address Complement"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:94 includes/front-functions.php:100
+#: includes/functions.php:100
+msgid "Zipcode/Postcode"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:96 includes/front-functions.php:102
+#: includes/functions.php:102
+msgid "City"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:98 includes/front-functions.php:104
+#: includes/functions.php:104
+msgid "Country"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:110 includes/front-functions.php:116
+#: includes/functions.php:116
+msgid "About your website"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:112 includes/front-functions.php:118
+#: includes/functions.php:118
+msgid "URL (website address)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:116
+msgid "Select your website default language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:124 includes/front-functions.php:129
+#: includes/functions.php:129
+msgid "Give context to our translators"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:135
+msgid "Select your default language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:139 includes/front-functions.php:139
+#: includes/functions.php:139
+msgid "Select the languages you can translate from"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:143 includes/front-functions.php:143
+#: includes/functions.php:143
+msgid "Select all services you can do"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:146 includes/front-functions.php:146
+#: includes/functions.php:146
+msgid "Select all specialisations that you have"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:149 includes/front-functions.php:149
+#: includes/functions.php:149
+msgid "Indicate your experience"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:152 includes/front-functions.php:152
+#: includes/functions.php:152
+msgid "About You"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:161
+msgid "Cancel"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:162 includes/front-functions.php:154
+#: includes/functions.php:154
+msgid "Update"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:178
+msgid "Indicate which countries you can answer local questions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:179
+#: includes/classes/setlr-profile.php:186
+#: includes/classes/setlr-profile.php:193
+msgid "Select a country"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:181
+#: includes/classes/setlr-profile.php:188
+#: includes/classes/setlr-profile.php:195
+msgid "Select A Country"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:274 includes/front-functions.php:680
+#: includes/functions.php:680
+msgid "Number of years of experience"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:295
+msgid "Change Logo "
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:295 includes/front-functions.php:632
+#: includes/functions.php:632
+msgid "Upload Logo"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:297
+msgid "Change Picture "
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:297 includes/front-functions.php:634
+#: includes/functions.php:634
+msgid "Upload Picture"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:309 includes/functions/functions.php:550
+msgid "Male"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:310 includes/functions/functions.php:549
+msgid "Female"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:311
+msgid "I prefer not to say"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:317
+msgid "My Gender"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:340
+msgid "Date of Birth (d/m/YYYY)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:364
+msgid "Busted!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:370
+msgid "Busted Again!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-profile.php:380
+msgid "Done!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:84
+msgctxt "post type general name"
+msgid "Rejection Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:85
+msgctxt "post type singular name"
+msgid "Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:86
+msgctxt "admin menu"
+msgid "Rejection Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:87
+msgctxt "add new on admin bar"
+msgid "Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:88
+msgctxt "setlr_rejection"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:89
+msgid "Add New Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:90
+msgid "New Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:91
+msgid "Edit Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:92
+msgid "View Rejection Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:93
+msgid "All Rejection Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:94
+msgid "Search Rejection Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:95
+msgid "Parent Rejection Requests:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:96
+msgid "No rejection requests found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:97
+msgid "No rejection requests found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:123
+#: includes/classes/setlr-revision-request.php:122
+msgid "Sorry you do not have enough rights to access this page."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:126
+msgid ""
+"We're really sorry to hear you might have a problem. You can reject your "
+"project but please consider it as a last resort. We'll do everything we can "
+"to help you to get the issue fixed and put a smile on your face."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:131
+msgid "Request Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:132
+msgid "Confirm Rejection"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:147
+#: includes/classes/setlr-revision-request.php:142
+msgid "Please check all reasons that apply."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:182
+#: includes/classes/setlr-revision-request.php:177
+msgid "Terminology"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:183
+#: includes/classes/setlr-revision-request.php:178
+msgid "Context"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:184
+#: includes/classes/setlr-revision-request.php:179
+msgid "Spelling"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:185
+#: includes/classes/setlr-revision-request.php:180
+msgid "Grammar"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:186
+#: includes/classes/setlr-revision-request.php:181
+msgid "Tense"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:187
+#: includes/classes/setlr-revision-request.php:182
+msgid "Cultural Inacurracy"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:188
+#: includes/classes/setlr-revision-request.php:183
+msgid "Incomplete"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:189
+#: includes/classes/setlr-revision-request.php:184
+msgid "Other reason"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:196
+#: includes/classes/setlr-revision-request.php:191
+msgid "Please describe the problem."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:264
+#: includes/classes/setlr-revision-request.php:259
+msgid "You need to fill this form."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-rejection-request.php:274
+msgid "We have your rejection request and will process it immediately."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:69
+msgid "We can not find the project this refers to"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:83
+msgctxt "post type general name"
+msgid "Revision Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:84
+msgctxt "post type singular name"
+msgid "Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:85
+msgctxt "admin menu"
+msgid "Revision Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:86
+msgctxt "add new on admin bar"
+msgid "Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:87
+msgctxt "setlr_rev_request"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:88
+msgid "Add New Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:89
+msgid "New Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:90
+msgid "Edit Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:91
+msgid "View Revision Request"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:92
+msgid "All Revision Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:93
+msgid "Search Revision Requests"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:94
+msgid "Parent Revision Requests:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:95
+msgid "No revision requests found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:96
+msgid "No revision requests found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:125
+msgid ""
+"We're really sorry to hear you might have a problem. Don't worry we'll do "
+"everything we can to help youget it sorted quickly."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:128
+#: payment_methods/method-Stripe.php:52
+msgid "Submit"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision-request.php:269
+msgid ""
+"We have your revision request and will start the revision process "
+"immediately."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:76
+msgctxt "post type general name"
+msgid "Revisions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:77
+msgctxt "post type singular name"
+msgid "Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:78
+msgctxt "admin menu"
+msgid "Revisions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:79
+msgctxt "add new on admin bar"
+msgid "Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:80
+msgctxt "setlr_revision"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:81
+msgid "Add New Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:82
+msgid "New Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:83
+msgid "Edit Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:84
+msgid "View Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:85
+msgid "All Revisions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:86
+msgid "Search Revisions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:87
+msgid "Parent Revisions:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:88
+msgid "No revisions found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:89
+msgid "No revisions found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:126
+msgid "Sorry, we can not find this revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-revision.php:187
+#: includes/classes/setlr-revision.php:188
+#: includes/classes/setlr-revision.php:189
+msgid "Save"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:17
+#: includes/classes/translation.php:17
+msgctxt "post type general name"
+msgid "Translations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:18
+#: includes/classes/translation.php:18
+msgctxt "post type singular name"
+msgid "Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:19
+#: includes/classes/translation.php:19
+msgctxt "admin menu"
+msgid "Translations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:20
+#: includes/classes/translation.php:20
+msgctxt "add new on admin bar"
+msgid "Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:21
+#: includes/classes/translation.php:21
+msgctxt "translation"
+msgid "Add New"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:22
+#: includes/classes/translation.php:22
+msgid "Add New Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:23
+#: includes/classes/translation.php:23
+msgid "New Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:24
+#: includes/classes/translation.php:24
+msgid "Edit Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:25
+#: includes/classes/translation.php:25
+msgid "View Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:26
+#: includes/classes/translation.php:26
+msgid "All Translations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:27
+#: includes/classes/translation.php:27
+msgid "Search Translations"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:28
+#: includes/classes/translation.php:28
+msgid "Parent Translations:"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:29
+#: includes/classes/translation.php:29
+msgid "No translations found."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:30
+#: includes/classes/translation.php:30
+msgid "No Translations found in Trash."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:125
+msgid ""
+"Task Accepted. Thanks for choosing Setlr! Now that your task is complete it "
+"will be accessible through your dashboard via the Finished tasks area. Thank "
+"you."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:142
+msgid "Your progress has been saved"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:158
+msgid ""
+"Thanks! Your project is now in customer review. Keep an eye on your "
+"dashboard in case any revisions are requested. We will process your payment "
+"as soon as your project is accepted by the customer."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:167
+#: includes/classes/translation.php:164
+msgid "Your translation has been saved."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:184
+#: includes/classes/translation.php:186
+msgid "Language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:240
+#: templates/dashboard-translator.php:7
+#, php-format
+msgid "Your Translation To %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/setlr-translation.php:250
+#, php-format
+msgid "Date Finished: %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/translation-status.php:117
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/translation.php:92
+msgid "Setlr has been notified and the review will be undertaken shortly."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/translation.php:105
+msgid "Setlr has been notified of the rejection. Sorry."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/translation.php:118
+msgid "Setlr has been notified of your acceptance. Thank you."
+msgstr ""
+
+# @ pdcrequest
+#: includes/classes/translation.php:167
+#, php-format
+msgid "Translation %s status has been updated to FINISHED. Congratulations!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:122 includes/functions.php:122
+msgid "Select your website main language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:126 includes/functions.php:126
+msgid "Select the languages you need translation to"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:135 includes/functions.php:135
+msgid "Select your native language"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:632 includes/functions.php:632
+msgid "Change Logo"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:634 includes/functions.php:634
+msgid "Change Picture"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:716 includes/functions.php:716
+msgid "Excerpt"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:721 includes/front-functions.php:802
+#: includes/functions/functions.php:384 includes/functions.php:721
+#: includes/functions.php:802
+msgid "Save Progress"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:722 includes/functions.php:722
+msgid "Translation Complete"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:759 includes/functions/functions.php:341
+#: includes/functions.php:759 pdc-requestmgt.php:743
+msgid "Apply"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:759 includes/functions/functions.php:341
+#: includes/functions.php:759
+msgid "apply"
+msgstr ""
+
+# @ setlr
+#: includes/front-functions.php:788 includes/functions/functions.php:370
+#: includes/functions.php:788
+#, php-format
+msgid "Requested by %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:803 includes/functions.php:803
+msgid "Translation Finished"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:815 includes/functions/functions.php:397
+#: includes/functions.php:815
+msgid "Send For Review"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:816 includes/functions.php:816
+msgid "Reject Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:817 includes/functions.php:817
+msgid "Accept Translation"
+msgstr ""
+
+# @ pdcrequest
+#: includes/front-functions.php:1271 includes/functions/functions.php:591
+#: includes/functions.php:1271
+msgid "Sorry, we can't find the corresponding request!"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:385
+#, php-format
+msgid "%s Finished"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:398
+#, php-format
+msgid "Reject %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:399
+#, php-format
+msgid "Accept %s"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:472
+msgid "Translation-Revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:473
+msgid "Proofreading"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:474
+msgid "Interpreting"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:475
+msgid "Transcreation / Copywriting"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:476
+msgid "Answering local questions"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:490
+msgid "Legal & Regulatory"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:491
+msgid "Literature"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:492
+msgid "Education"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:493
+msgid "Humanistic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:494
+msgid "Academic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:495
+msgid "Advertising, Marketing & Creative Media"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:496
+msgid "Art & Design"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:497
+msgid "Scientific"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:498
+msgid "Medical, Healthcare, Wellness & Therapies"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:499
+msgid "Engineering"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:500
+msgid "People's everyday needs (eg for expats)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:501
+msgid "Business"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:502
+msgid "Economic"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:503
+msgid "Public Information Media (news, journalism, blogs)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:504
+msgid "IT, Technology & Internet"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:505
+msgid "Web Languages (HTML, PHP, JavaScript, etc)"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:506
+msgid "Engineering & Mechanics"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:507
+msgid "Farming, Agriculture & Horticulture"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:508
+msgid "Leisure & Hobbies"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:509
+msgid "Music"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:510
+msgid "Politics & Current Affairs"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:511
+msgid "Retail"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:512
+msgid "Sports & Fitness"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:513
+msgid "Travel & Tourism"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:514
+msgid "Trades"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:515
+msgid "Telecoms & Communication"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:536
+msgid "Children"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:537
+msgid "Teenagers"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:538
+msgid "Young Adults"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:539
+msgid "Adults"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:540
+msgid "Seniors"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:710 includes/functions/functions.php:722
+#: includes/functions/functions.php:733 includes/functions/functions.php:768
+msgid "pending"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:711 includes/functions/functions.php:734
+msgid "in progress"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:712 includes/functions/functions.php:723
+#: includes/functions/functions.php:735
+msgid "customer review"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:713 includes/functions/functions.php:724
+#: includes/functions/functions.php:736
+msgid "in revision"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:714 includes/functions/functions.php:737
+msgid "finished"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:715 includes/functions/functions.php:739
+msgid "accepted"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:716 includes/functions/functions.php:727
+#: includes/functions/functions.php:741
+msgid "rejected"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:721 includes/functions/functions.php:732
+msgid "open"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:725 includes/functions/functions.php:738
+msgid "cancelled"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:726 includes/functions/functions.php:740
+msgid "closed"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:769
+msgid "paid"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:770
+msgid "refund pending"
+msgstr ""
+
+# @ pdcrequest
+#: includes/functions/functions.php:771
+msgid "refunded"
+msgstr ""
+
+# @ pdcrequest
+#: payment_methods/method-Stripe.php:29
+msgid "Card Number"
+msgstr ""
+
+# @ pdcrequest
+#: payment_methods/method-Stripe.php:36
+msgid "CVC"
+msgstr ""
+
+# @ pdcrequest
+#: payment_methods/method-Stripe.php:43
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+# @ pdcrequest
+#: payment_methods/method-Stripe.php:70
+msgid "Update your payment information"
+msgstr ""
+
+# @ pdcrequest
+#: payment_methods/method-Stripe.php:72
+msgid "Enter your payment information"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'Name'
+#: pdc-requestmgt.php:0
+msgid "PdC-Requestmgt"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'PluginURI'
+#: pdc-requestmgt.php:0
+msgid "http://ispectors.com.com/plugins/pdc-requestmgt/"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'Description'
+#: pdc-requestmgt.php:0
+msgid "management of requests for Setlr.com"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'Author'
+#: pdc-requestmgt.php:0
+msgid "pdc"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'AuthorURI'
+#: pdc-requestmgt.php:0
+msgid "http://ispectors.com/philippe-de-chabot/"
+msgstr ""
+
+# @ pdcrequest
+#. translators: plugin header field 'Version'
+#: pdc-requestmgt.php:0
+msgid "0.9.9.2"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:15
+msgid "Hi there!  I'm just a plugin, not much I can do when called directly."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:256
+msgid "Helper"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:258
+msgid "Senior Helper"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:437
+msgid "Post added with ID:"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:439
+msgid "Could not add your post"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:505
+msgid "Up For Grabs"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:507 pdc-requestmgt.php:633 pdc-requestmgt.php:903
+#: pdc-requestmgt.php:1314
+msgid "Projects"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:508 pdc-requestmgt.php:904 pdc-requestmgt.php:1315
+msgid "Customers"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:511 pdc-requestmgt.php:1318
+msgid "Freshness"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:512
+msgid "Offer"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:515 pdc-requestmgt.php:641 pdc-requestmgt.php:925
+#: pdc-requestmgt.php:1322
+msgid "Actions"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:548 pdc-requestmgt.php:1360
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:558 pdc-requestmgt.php:1367
+msgctxt "request action button"
+msgid "apply"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:567 pdc-requestmgt.php:1376
+msgid "You have applied"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:580 pdc-requestmgt.php:1389
+msgid "There are no requests available at this time."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:600 pdc-requestmgt.php:608
+msgid "My Outstanding Projects"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:604 pdc-requestmgt.php:849
+msgid "My History"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:637 pdc-requestmgt.php:907
+msgid "Helpers"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:693
+msgid "You have no outstanding request at this time."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:720
+msgid "This request is in stand-by."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:725
+msgid "This request has already benn filled!"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:731
+msgid "You don't have sufficient rights to apply to this request."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:734
+msgid "It's your own request!"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:737
+msgid "You don't have the right native language to translate this request"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:740
+msgid "Languages can not be retrieved"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:743
+msgid "Appply"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:830
+#, php-format
+msgid "You need to %s or %s to view this content!"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:859
+msgid "You don't have any past jobs."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:862
+msgid "In Progress"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:872
+msgid "You don't have any jobs in-progress."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:875
+msgid "Translations"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:912
+msgid "Translators"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:916
+msgid "Working Time"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:967
+msgid "Resume"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1056
+msgid "No request id"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1065
+msgid "pending translation"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1082
+#, php-format
+msgid "You have applied to %s. Happy translating."
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1121
+msgid "Translation Langage Pair"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1217
+msgid "View Project"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1225
+msgid "Cancel Project"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1232
+msgid "Reopen Project"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1312
+msgid "Revisions For Grabs"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1398
+msgid "The revision request is undefined"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1420
+msgid "Braintree"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1426
+msgid "Braintree Environment"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1433
+msgid "Sandbox Merchant ID"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1440
+msgid "Sandbox Public Key"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1447
+msgid "Sandbox Private Key"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1454
+msgid "Production Merchant ID"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1461
+msgid "Production Public Key"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1468
+msgid "Production Private Key"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1475
+msgid "Pricing"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1482
+msgid "Translation Price"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1490
+msgid "Translation Price Unit"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1498
+msgid "Question Price"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1506
+msgid "Question Price Unit"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1514
+msgid "Letterhead of receipt"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1522
+msgid "Signature of receipt"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1530
+msgid "PayPal Sandbox Account"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1538
+msgid "PayPal Sandbox Client ID"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1546
+msgid "PayPal Sandbox Secret"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1554
+msgid "PayPal Production Account"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1562
+msgid "PayPal Production Client ID"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1570
+msgid "PayPal Production Secret"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1688
+msgid "Setlr Pricing Scheme"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1693
+msgid "Braintree Payments"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1718
+msgid "per word"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1719
+msgid "per question"
+msgstr ""
+
+# @ pdcrequest
+#: pdc-requestmgt.php:1730
+msgid "Payment system is in sandbox mode."
+msgstr ""
+
+# @ twentyfifteen
+#: templates/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+# @ twentyfifteen
+#: templates/author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ pdcrequest
+#: templates/content-application.php:36
+#, php-format
+msgid "In reply to %s by %s"
+msgstr ""
+
+# @ pdcrequest
+#: templates/content-application.php:36
+msgid "Error: can not find request!"
+msgstr ""
+
+# @ twentyfifteen
+#. translators: %s: Name of current post
+#: templates/content-application.php:48
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+# @ twentyfifteen
+#: templates/content-application.php:53
+msgid "Pages:"
+msgstr ""
+
+# @ twentyfifteen
+#: templates/content-application.php:57
+msgid "Page"
+msgstr ""
+
+# @ twentyfifteen
+# @ setlr
+#: templates/content-application.php:74 templates/content-request.php:23
+#: templates/content-setlr_rev_request.php:24
+msgid "Edit"
+msgstr ""
+
+# @ pdcrequest
+#: templates/content-application.php:80
+msgid "Sorry! You are not allowed to view this application!"
+msgstr ""
+
+# @ default
+#: templates/setlr-receipt.php:11
+msgid "[Setlr.com] Receipt of Payment"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:23
+msgid "RECEIPT OF PAYMENT"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:28
+#, php-format
+msgid "Receipt No: %s"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:29
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:31
+#, php-format
+msgid "Payment Received From: %s"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:35
+msgid "Services Provided:"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:42
+msgid "No VAT"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:46
+msgid "Total"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:52
+msgid "Payment received"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:54
+msgid "Thanks again for using Setlr!"
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:56
+msgid ""
+"Important Note: Although we keep a record of this payment, we do not store "
+"credit or debit card information. Your payment was fully handled by PayPal "
+"for your security and convenience."
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:58
+msgid ""
+"If you have any questions regarding this payment, please email pay@setlr."
+"com, including the receipt number above and rest assured we’re here to help."
+msgstr ""
+
+# @ pdcrequest
+#: templates/setlr-receipt.php:60
+msgid "Sincerely,"
+msgstr ""

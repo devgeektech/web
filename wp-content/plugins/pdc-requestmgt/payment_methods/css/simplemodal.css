@@ -1,0 +1,49 @@
+
+/* 
+    Styling for simplemodal plugin
+    Created on : 16 juin 2015, 08:49:06
+    Author     : philippe
+*/
+.simplemodal-overlay {
+    background-color:rgba(0,0,0,0.7);
+}
+
+.simplemodal-container {
+    background-color: #fff;
+    color:#555;
+}
+
+.simplemodal-wrap {
+    background-color: #fff;
+    width: 90%;
+    height:auto !important;
+    padding:5%;
+    overflow:hidden !important;
+}
+
+.form-row {
+    margin-top:3%;
+    margin-bottom:3%;
+}
+
+
+input[size="2"] {
+    max-width: 30%;
+}
+input[size="4"] {
+    max-width: 60%;
+}
+
+label span {
+    display:block;
+    width:100%;
+}
+
+.payment-errors {
+    border: 5px solid red;
+    display: block;
+    padding: 2%;
+}
+.payment-errors:empty{
+    display:none;
+}

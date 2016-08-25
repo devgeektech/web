@@ -1,0 +1,5 @@
+phpDocumentor Shortcuts
+
+once in directory, start documenting
+/Applications/MAMP/bin/php/php5.5.10/bin/phpdoc -d ./ -t ./docs
+

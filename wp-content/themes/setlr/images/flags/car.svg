@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<g>
+		<circle fill="#37474F" cx="52.696" cy="41.893" r="7.066"/>
+		<circle fill="#37474F" cx="21.603" cy="41.893" r="7.066"/>
+	</g>
+	<g>
+		<circle fill="#546E7A" cx="37.147" cy="41.893" r="4.24"/>
+		<circle fill="#546E7A" cx="52.696" cy="41.893" r="2.826"/>
+		<circle fill="#546E7A" cx="21.603" cy="41.893" r="2.826"/>
+		<path fill="#546E7A" d="M46.192,44.719c-0.422-0.848-0.563-1.836-0.563-2.826s0.283-1.979,0.563-2.826H28.104
+			c0.425,0.85,0.565,1.836,0.565,2.826s-0.282,1.979-0.565,2.826H46.192z"/>
+	</g>
+	<path fill="none" stroke="#5379BB" stroke-width="4" stroke-miterlimit="10" d="M13.122,31.094V19.788
+		c0-3.109,2.544-5.653,5.654-5.653h19.786c1.695,0,3.395,0.848,4.523,2.261l9.609,11.873"/>
+	<path fill="#5379BB" d="M60.047,26.854l-10.178-4.24H13.122c-1.696,0-2.826,1.131-2.826,2.828v14.132
+		c0,1.697,1.13,2.826,2.826,2.826h1.414c0-3.957,3.108-7.065,7.066-7.065c3.957,0,7.066,3.108,7.066,7.065h16.96
+		c0-3.957,3.107-7.065,7.066-7.065s7.065,3.108,7.065,7.065h1.415c1.694,0,2.825-1.129,2.825-2.826v-7.351
+		C64.003,29.964,62.308,27.703,60.047,26.854z"/>
+	<line fill="none" stroke="#5379BB" stroke-width="3" stroke-miterlimit="10" x1="19.831" y1="25.52" x2="0" y2="25.52"/>
+	<line fill="none" stroke="#5379BB" stroke-width="3" stroke-miterlimit="10" x1="23.871" y1="29.934" x2="4.04" y2="29.934"/>
+	<line fill="none" stroke="#5379BB" stroke-width="3" stroke-miterlimit="10" x1="26.078" y1="34.348" x2="6.247" y2="34.348"/>
+	<line fill="none" stroke="#416393" stroke-width="2" stroke-miterlimit="10" x1="19.754" y1="27.676" x2="10.296" y2="27.676"/>
+	<line fill="none" stroke="#416393" stroke-width="2" stroke-miterlimit="10" x1="16.129" y1="32.09" x2="10.296" y2="32.09"/>
+	<line fill="none" stroke="#416393" stroke-width="2" stroke-miterlimit="10" x1="13.554" y1="36.461" x2="10.296" y2="36.461"/>
+</g>
+</svg>

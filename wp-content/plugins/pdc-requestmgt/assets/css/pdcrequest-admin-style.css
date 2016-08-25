@@ -1,0 +1,19 @@
+
+/* 
+    Admin only styles for pdc-requestmgt
+    Created on : 4 sept. 2015, 10:59:31
+    Author     : philippe
+*/
+
+.setlr-locales-form legend {
+    font-size: 14px !important;
+    font-style:italic;
+}
+
+
+.setlr-checkbox,
+.setlr-radio {
+    display: inline-block;
+    width: 24%;
+    margin-right:1%;
+}

@@ -1,0 +1,136 @@
+/**
+ * CSS styles for login screen
+ *
+ * @version 0.7
+ */
+ 
+.screen-reader-text {
+	opacity: 0;
+}
+
+/* styling login page */
+
+body {
+    background: url(https://setlr.com/wp-content/uploads/setlr-login-bg.png) #00a9db;
+    background-repeat: repeat;
+    min-width: 0;
+    color: #444;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+}
+
+ /* styling login form */
+ 
+#login {
+	width: 340px !important;
+}
+
+.login form {
+    border-radius: 20px;
+}
+
+.login .message {
+    border-radius: 10px;
+}
+
+.login #login_error {
+    border-radius: 10px;
+}
+.login input[type="text"]{
+  background-color: #ffffff;
+  border-color:#00a9db;
+  -webkit-border-radius: 6px;
+}
+
+.login input[type="password"]{
+  background-color: #ffffff;
+  border-color:#00a9db;
+  -webkit-border-radius: 6px;
+}
+ /* styling logo */
+ 
+.login h1 {
+	position: relative;
+}
+		
+.login h1 a {
+    background-image: url(https://setlr.com/wp-content/uploads/setlr-logo-260x85.png);
+	background-size:cover;
+	display: block;
+	height:85px;
+	width: 300px;
+}
+
+/* styling submit button */
+
+.login .button-primary {
+	background-color: #00a9db;
+    margin: 0px 10px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.125rem !important;
+    font-weight: 700;
+    height: auto !important;
+    padding: 20px 50px !important;
+    line-height: normal !important;
+    text-transform: uppercase;
+    text-align: center;
+    transition: all .3s ease 0s;
+}
+.login .button-primary:hover {
+	background-color: transparent;
+    margin: 0px 10px;
+    border: 2px solid #00a9db;
+    border-radius: 8px;
+    color: #00a9db;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.125rem !important;
+    font-weight: 700;
+    height: auto !important;
+    padding: 20px 50px !important;
+    line-height: normal !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    transition: all .3s ease 0s;
+}
+
+/* styling bottom navigation text */
+
+.login #backtoblog a, .login #nav a, .login h1 a {
+    color: #fff;
+}
+
+/* hiding the back to blog link */
+
+p#backtoblog {
+  display: none;
+}
+
+/* styling register form */
+		
+#registerform select,
+#registerform option {
+	font-size: 20px;
+	padding: 3px 5px;
+}
+		
+#registerform {
+	min-width:350px;
+}
+		
+p.register {
+	min-width:370px;
+}
+
+#registerform > p:first-child{
+            display:none;
+        }
+		

@@ -1,0 +1,66 @@
+/**
+ * Pdc Request
+ */
+ 
+ .pdcrequest-checkbox {
+	 display: inline-block;
+	 min-width: 30%;
+	 padding: 1em;
+ }
+ 
+ .pdcrequest-message {
+     background-color: #fff;
+     color:#000;
+     margin: 3em auto 1em;
+     width: 80%;
+     padding-left: 10px;
+     text-align: center;
+ }
+ 
+ .pdcrequest-message.success {
+     background-color: green;
+ }
+ 
+ .pdcrequest-message.error {
+     background-color: red;
+ }
+ 
+ .pdcrequest-message p {
+     background: #fff;
+     margin-bottom: 0;
+ }
+ 
+ /**
+  * Styles for Braintree Payments
+  */
+ #checkout {
+     max-width: 400px;
+     border: 1px solid #090;
+     margin: 30px auto;
+ }
+ 
+ /**
+  * Styles for Letter of Receipt
+  */
+ .setlr-letterhead {
+     width: 40%;
+     margin: 20px auto;
+ }
+ 
+ .header-title {
+     width:40%;
+     margin: 20px auto;
+ }
+ 
+ table td {
+     overflow:hidden;
+ }
+ 
+ .setlr-register {
+     float: left;
+     width: 50%;
+ }
+ .setlr-login {
+     float: right;
+     width: 50%;
+ }
